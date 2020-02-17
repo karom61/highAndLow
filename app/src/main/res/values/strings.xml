@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">High and low</string>
+    <string name="hit_text">あたり</string>
+    <string name="loseText">はずれ</string>
+    <string name="lose_text">はずれ</string>
+    <string name="higt_text">High</string>
+    <string name="high_text">High</string>
+    <string name="next_text">次へ</string>
+    <string name="low_text">Low</string>
+</resources>
